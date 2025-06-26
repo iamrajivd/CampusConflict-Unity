@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "com.unity.analytics": "4.1.0",
+    "com.unity.textmeshpro": "3.0.6",
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.androidjni": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0"
+  },
+  "scopedRegistries": [
+    {
+      "name": "Unity",
+      "url": "https://packages.unity.com",
+      "scopes": [
+        "com.unity"
+      ]
+    }
+  ],
+  "registry": "https://packages.unity.com"
+}

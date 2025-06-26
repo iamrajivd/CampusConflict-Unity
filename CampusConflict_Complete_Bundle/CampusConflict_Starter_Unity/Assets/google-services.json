@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618370154330",
+    "project_id": "campus-conflict",
+    "storage_bucket": "campus-conflict.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618370154330:android:cac84eb8d2adbac81c3d63",
+        "android_client_info": {
+          "package_name": "com.campus.conflict"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9nimKxB8ThopLNHx1fGI6WRGuxbYnVsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

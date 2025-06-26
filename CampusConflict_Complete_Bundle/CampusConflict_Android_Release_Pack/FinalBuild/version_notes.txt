@@ -1,0 +1,5 @@
+Campus Conflict v1.0.0
+
+- Initial release with Levels 1–5
+- PvP matchmaking enabled
+- Firebase + Rewarded Ads + IAP integrated
